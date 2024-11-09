@@ -1,6 +1,7 @@
-username
-loin
-password
-phonenumber
-extra
+dragon ball
+naruto
 one piece
+bleach
+breserk
+vinland saga
+fruit basket
